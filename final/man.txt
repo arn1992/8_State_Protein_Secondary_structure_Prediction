@@ -1,0 +1,3 @@
+python driver.py data/cullpdb+profile_6133.npy.gz
+
+tensorboard --logdir=logs/
